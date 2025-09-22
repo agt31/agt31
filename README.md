@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ I'm Ali Gokmen Tazearslan and ı have interested in coding and develop new softwares. Now , I'm studying at Bilkent University and its my first year at my departmant. 
 <!--
 **agt31/agt31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
